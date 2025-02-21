@@ -1,5 +1,5 @@
-# capstone-project
-Adversarial AI in Wealth Management. Capstone Project for [IE University](https://www.ie.edu/university/studies/projects/adversarial-artificial-intelligence-wealth-management/).
+# capstone-project-eda
+Repository part of a bigger project: Adversarial AI in Wealth Management, a Capstone Project for [IE University](https://www.ie.edu/university/studies/projects/adversarial-artificial-intelligence-wealth-management/).
 
 ### Packages Involved
 - `Pandas`: used for dataset manipulation. Alternatively could have used `polars`.
