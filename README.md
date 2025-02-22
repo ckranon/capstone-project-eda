@@ -70,3 +70,6 @@ data = pd.DataFrame(imputer.fit_transform(data), columns=data.columns)
 
 #### Export File
 Final dataset exported in .parquet format.
+
+#### EDA TODO:
+- Standardize Dataset.
