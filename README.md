@@ -51,7 +51,6 @@ data = data.drop(['City', 'State', 'Country'], axis=1)
 
 #### Encdoing Datset
 ```{python}
-
 ordinal_mapping = {
     'Education Level': ['High School', "Bachelor's", "Master's", "PhD"],
     'Risk Rating': ["Low", "Medium", "High"],
